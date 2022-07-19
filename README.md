@@ -7,7 +7,7 @@ Hi There 👋 I'm Brack Harmon 🦊
   <h2>
     Portfolio site: https://brackharmon.com
   </h2>
-    A game developer and student from Texas A&M University
+    A game developer and student at Texas A&M University
  </div>
 
 ---
